@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Volvo Weather</string>
+    <string name="app_title">Volvo Weather</string>
+    <string name="snackbar_error_text">Could not fetch weather for %s</string>
+    <string name="weather_humidity_template">Humidity %s%%</string>
+    <string name="weather_temp_suffix">° C</string>
+</resources>
